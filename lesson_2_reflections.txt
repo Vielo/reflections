@@ -18,6 +18,11 @@ What are some situations when branches would be helpful in keeping your history 
 Branches would be helpful when some deviation from the 'true' course of the project was needed, such as an experiment on a new feature completely independent from the new iterations of the 'clue' of the project. Branches seem to help to keep things logically separated.
 ############
 
+How do the diagrams help you visualize the branch structure?
+
+Diagrams make it easier to get the idea of how the project structure is shaped - where the branches start, how big they are, how complicated the whole thing becomes. They also make it easier to checkout between the branches.
+############
+
 
 
 
