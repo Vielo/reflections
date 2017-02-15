@@ -8,5 +8,16 @@ How is the staging area different from the working directory and the repository?
 The staging area is the 'twilight zone' between the working directory and the repository, temporarily storing selected changed that can later by committed to a repository or not. It allows the user to create 'batches' of files to be committed all at once, as opposed to doing that one by one.
 ############
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can add multiple files that were changed due to some edits following a logic and them commit all of them at once, ensuring all that was changed is kept together for future reference.
+############
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches would be helpful when some deviation from the 'true' course of the project was needed, such as an experiment on a new feature completely independent from the new iterations of the 'clue' of the project. Branches seem to help to keep things logically separated.
+############
+
+
 
 
