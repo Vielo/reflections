@@ -7,5 +7,11 @@ It would also help if I were to do any work on the project from another computer
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 I believe it's because you might not always want to automatically update stuff you are working on. It could introduce lots of chaos and would take away any kind of control over the project. Doing it manually also enables the user to actually select the branch they want to work on.
-$########
+#########
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks let you clone another user's repository on Github (only there) so that you can use it as your own, while linking to the original author's repository (he will also be notified of someone forking his stuff). Clones simply clone the whole thing (from your own Github repository to the local drive or between the local directories; forks are clones in a way too). Branches let you try and experiment on new things on a single repository, meaning you can try to add new features without touching the stuff already present and working. Forks seem to be a great way to improve upon someone else's work on Github, while cloning is a good way to get the repository to the local directory in order to make work faster and not dependent on constant internet connection. Branching was already discussed earlier and its significance is unquestionable.
+##########
+
 
