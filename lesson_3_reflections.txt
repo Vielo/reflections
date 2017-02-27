@@ -23,3 +23,8 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 I would need to manually compare the files changed or look for some sort of tool to do that for me. Aside from that, keeping track of who did what and when would be much harder, requiring maintaining of a manual record. Small changes in projects  worked on by not so many people might actually be easier though, as Git and Github seem to be more useful the more complicated the project becomes. An extra advantage of Github is also the community, which can help you with issues since repositories can be kept open to public. An extra set of eyes and a fresh mind can do wonders.
 ##########
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+I'd make changes in a separate branches whenever I need to work on a side feature (or an experiment) that does not exactly push the whole thing forward, but might improve it on a smaller scale. It also makes it easier to track changes and keep the logic of the development process separated in different branches. It also saves others the trouble of having to constantly check the master branch for changes made by other people which might not necessarily be concerning them. Working directly on master branch I think should be reserved for direct development of the main bulk of the project. Only when the side branch is completed and tested, should it be merged with the master.
+##########
