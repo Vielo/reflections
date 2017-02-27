@@ -19,3 +19,7 @@ What is the benefit of having a copy of the last known state of the remote store
 You can work on it while not being connected to the internet. Aside from that, it can also act as a kind of backup in case things go wrong on the remote repository I suppose?
 ##########
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would need to manually compare the files changed or look for some sort of tool to do that for me. Aside from that, keeping track of who did what and when would be much harder, requiring maintaining of a manual record. Small changes in projects  worked on by not so many people might actually be easier though, as Git and Github seem to be more useful the more complicated the project becomes. An extra advantage of Github is also the community, which can help you with issues since repositories can be kept open to public. An extra set of eyes and a fresh mind can do wonders.
+##########
